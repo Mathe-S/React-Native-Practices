@@ -1,0 +1,15 @@
+export const EMAIL_CHANGED = 'email_changed';
+export const PASSWORD_CHANGED = 'password_changed';
+export const LOGIN_USER_SUCCESS = 'LOGIN_USER_SUCCESS';
+export const CREATE_USER_SUCCESS = 'CREATE_USER_SUCCESS';
+export const ERROR_FOUND = 'ERROR_FOUND';
+export const CLEAR_ERROR = 'CLEAR_ERROR';
+export const LOGIN_USER = 'LOGIN_USER';
+export const ALREADY_SIGNED = 'ALREADY_SIGNED';
+
+
+
+export const EMPLOYEE_UPDATE = 'EMPLOYEE_UPDATE';
+export const EMPLOYEE_CREATE = 'EMPLOYEE_CREATE';
+export const EMPLOYEES_FETCH_SUCCESS = 'EMPLOYEES_FETCH_SUCCESS';
+export const EMPLOYEE_UPDATED = 'EMPLOYEE_UPDATED';
